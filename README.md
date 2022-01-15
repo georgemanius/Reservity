@@ -27,7 +27,7 @@ Reservity uses following technologies:
 Used design patterns:
 - Dependency injection 
 - Repository
-- Model-View-Controller (MVC).
+- Model-View-Controller (MVC)
 
 
 
