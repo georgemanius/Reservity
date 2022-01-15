@@ -1,0 +1,158 @@
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.exe
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.deps.json
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.runtimeconfig.json
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.runtimeconfig.dev.json
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.pdb
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.AssemblyReference.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.AssemblyInfoInputs.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.AssemblyInfo.cs
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.CoreCompileInputs.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookingAPI.StaticWebAssets.Manifest.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookingAPI.StaticWebAssets.xml
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookingAPI.styles.css
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.RazorTargetAssemblyInfo.cache
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.dll
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.pdb
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.genruntimeconfig.cache
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\University\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.CopyComplete
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.StaticWebAssets.xml
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\University\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.StaticWebAssets.xml
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.exe
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.deps.json
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.runtimeconfig.json
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.runtimeconfig.dev.json
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\BookingAPI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.AssemblyReference.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.AssemblyInfoInputs.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.AssemblyInfo.cs
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.CoreCompileInputs.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookingAPI.StaticWebAssets.Manifest.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookingAPI.StaticWebAssets.xml
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookingAPI.styles.css
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.RazorTargetAssemblyInfo.cache
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.csproj.CopyComplete
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.dll
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.pdb
+D:\University\3 курс\5 семестр\Атарк\BookingAPI\BookingAPI\obj\Debug\netcoreapp3.1\BookingAPI.genruntimeconfig.cache
